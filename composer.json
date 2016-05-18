@@ -1,5 +1,5 @@
 {
-    "name": "jdesrosiers/silex-cors-provider",
+    "name": "lkm/silex-cors-provider",
     "description": "A silex service provider that adds CORS services to silex",
     "keywords": ["silex", "cors", "cross", "origin", "resource", "sharing", "service", "provider"],
     "license": "MIT",
